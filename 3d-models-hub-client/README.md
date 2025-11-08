@@ -1,0 +1,1 @@
+[netlify deploy] ("https://cozy-basbousa-7cca1c.netlify.app/all-models")
