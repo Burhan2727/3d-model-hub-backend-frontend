@@ -47,7 +47,7 @@ const AllModels = () => {
       <button className="btn btn-secondary rounded-full">{loading ? "Searching..." : "Search"}</button>
       </form>
       {/* search input end */}
-      <div className="grid grid-cols-3 lg:grid-cols-4 gap-3">
+      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-3">
         {models.map((model) => (
           <ModelCard key={model._id} model={model}></ModelCard>
         ))}

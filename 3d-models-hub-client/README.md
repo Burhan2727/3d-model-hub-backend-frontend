@@ -1,1 +1,1 @@
-[netlify deploy] ("https://cozy-basbousa-7cca1c.netlify.app/all-models")
+[netlify deploy] ("https://stately-snickerdoodle-fbc63f.netlify.app/")
